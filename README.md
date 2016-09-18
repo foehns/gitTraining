@@ -1,4 +1,4 @@
 # gitTraining
 
-name = April
+name = Donna April
 surname = Teodoro
