@@ -2,5 +2,5 @@
 
 name = Donna
 surname = Teodoro
-favorite color = blue
+favorite color = pink
 favorite book = Harry Potter
